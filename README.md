@@ -16,12 +16,3 @@
 | Electricity Use vs GDP per capita | +0.82 | Norway (23,000 kWh/capita) |
 | HDI vs GDP per capita | +0.78 | Switzerland (0.96) |
 
-## 🌍 Regional Performance
-```mermaid
-barChart
-    title Human Development Index (2018)
-    xAxis Region
-    yAxis HDI Score
-    bar "North America" : 0.92
-    bar "Europe & C. Asia" : 0.89
-    bar "Sub-Saharan Africa" : 0.54
